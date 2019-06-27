@@ -72,6 +72,8 @@ body {
     background-image: url('../image/slider.jpg') ;
     background-size: cover;
     height: 610px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius:10px;
     width:100%;
     z-index:1;
     display:flex;
